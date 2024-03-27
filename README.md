@@ -1,4 +1,4 @@
-# ZipCodeLocator 📍🗺️
+# ZipCodeLocator 📍🗺️ 
 
 ## About the project📜
 Efficient zip code search engine using React, HTML and CSS. 
